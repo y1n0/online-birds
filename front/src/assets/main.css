@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  @apply min-h-screen max-w-screen-xl mx-auto;
+  @apply grid place-items-center;
+}
