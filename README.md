@@ -1,6 +1,6 @@
 ## Run in Docker
 
-Make sure ports 3000 and 8080 are free then run `docker-compose up`
+Make sure ports 3000 and 8080 are free, run `docker-compose up`, then navigate to http://localhost:8080.
 
 ## Run without Docker
 
